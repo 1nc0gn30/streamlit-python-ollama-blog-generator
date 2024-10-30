@@ -17,5 +17,5 @@ Before running the application, ensure the following prerequisites are met:
 
 1. **Clone this repository:**
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/1nc0gn30/streamlit-python-ollama-blog-generator.git
+   cd https://github.com/1nc0gn30/streamlit-python-ollama-blog-generator.git
